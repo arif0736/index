@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> Hey!! </title>
 </head>
 
 <body>
@@ -15,8 +14,6 @@
 <h3>Our Projects</h3>
 <hr/>
 <p1>*Small Businesses <br/>*Investment in Real Estate</p1>
-
-<script type="text/javascript" src="https://g.Cash-Ads.com/slider/?code=2AmbSajCDuqn3dfkXNJDSg%3D%3D"></script>
 
  </body>
 
