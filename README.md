@@ -5,7 +5,7 @@
 <body>
 
 
-<h1> Card Price Now <br/> Rs. 100 </h1>
+<h1> Card Price Now <br/> Rs. 101.50 </h1>
 <hr/>
 <p> Here you can contact with us to Sell or Buy our cards.</p>
 <h2> Contact Us </h2>
